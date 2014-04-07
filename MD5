@@ -1,8 +1,7 @@
-d5fb3a478bca31618f21ef418cf278c1 *DESCRIPTION
-ceb8d41c666730e308f9284edf3052ea *LICENSE
-2b02305669c650e4c3c9a8119848a20f *NAMESPACE
+d270868c1824ec34458342eef11a3278 *DESCRIPTION
+e059759d7554679d527451ae54ce9a16 *NAMESPACE
 a55d82675af15488727e09cd0896db01 *R/ACF.R
-c859db698e0ddbe8735d14e9ed988831 *R/annotation.R
+251394ee036c5cda7e5eb88eeda9d4dd *R/annotation.R
 895c7d039a62e567ba2ad1c89a360b77 *R/document_data.R
 b8e3df7f7b7d8f193aacfd9ec54b4689 *R/eDMR.sub.R
 71885137807551ec82753c1dc901b3f2 *R/edmr.R
@@ -11,12 +10,11 @@ fc570d4049174e49691232350532eb0a *R/filter.dmr.R
 6e287c4729b6aa7c1a81cc420d8e077e *R/getDMR.R
 f953dc4d70324b24374d6fb40b2a306a *R/getPeaks.R
 37d7a27e577671f64848a385c7153436 *R/helpers.R
-17ca9cfd821f9ec4066344ac5b5af9b5 *R/myDiff.to.mixmdl.R
+b4cef03ea33127181baf66704854c2bf *R/myDiff.to.mixmdl.R
 4a6159a106cca8080aed60e71dc970ee *R/myDiffToDMR.R
 aedc8c26c3e93c33e59de91aa922f69a *R/plotCost.R
 501aabe74317e7c5843d2ce557c5e5c6 *R/plotMdl1.R
-b43f03f5f696c098ae8a22ad651e81ea *README.md
-acac233d67160eeac147333a5620e6ba *data/datalist
+6374214e31c46fece6c60d640cf48b01 *README.md
 fbc16eb21914b0d26f26822da4ee2ccf *data/edmr.rda
 6dcb2c59b7eaa36a847454d2c6b632d8 *inst/CITATION
 5da2cf78e626f11c9b3a5172adc10872 *inst/cost.png
@@ -36,4 +34,4 @@ f23794c4b871ca81fc889bbb8c9bceef *man/get.hyper.dmr.Rd
 8a10b85f0f86750c8dcf84488f0c8ef6 *man/myDiff.to.mixmdl.Rd
 b5d2a91e98536d0a4d2709b16033b1ff *man/plotCost.Rd
 48ecb6db3909afc0f8ced40621940cdd *man/plotMdl1.Rd
-9515fc61b9c5d2acdd240e4d9e004640 *man/plotdmrdistr.Rd
+6812a6cf2117d8d5c84bced0a2535210 *man/plotdmrdistr.Rd
